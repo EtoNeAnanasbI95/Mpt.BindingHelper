@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>ThisIsNotPineapple95</Authors>
+        <Company>Mpt</Company>
+        <Product>BindingHelper</Product>
+        <PackageId>Mpt.BindingHelper</PackageId>
+        <Version>1.0.0</Version>
+        <Description>Simple package for bindings in Wpf</Description>
+        <RepositoryUrl>https://github.com/EtoNeAnanasbI95/Mpt.BindingHelper</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mpt.BindingHelper</id>
+    <version>1.0.0</version>
+    <authors>ThisIsNotPineapple95</authors>
+    <description>Simple package for bindings in Wpf</description>
+    <repository type="git" url="https://github.com/EtoNeAnanasbI95/Mpt.BindingHelper" commit="084e6759a37d745895eec1e5d5bd5f3e90bf612c" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\bin\Debug\net8.0-windows\SecondLibPractice.dll" target="lib\net8.0-windows7.0\SecondLibPractice.dll" />
+  </files>
+</package>

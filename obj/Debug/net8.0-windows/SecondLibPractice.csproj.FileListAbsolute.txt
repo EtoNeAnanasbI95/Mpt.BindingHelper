@@ -1,0 +1,12 @@
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\bin\Debug\net8.0-windows\SecondLibPractice.deps.json
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\bin\Debug\net8.0-windows\SecondLibPractice.dll
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\bin\Debug\net8.0-windows\SecondLibPractice.pdb
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.AssemblyInfoInputs.cache
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.AssemblyInfo.cs
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.csproj.CoreCompileInputs.cache
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.sourcelink.json
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.dll
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\refint\SecondLibPractice.dll
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\SecondLibPractice.pdb
+C:\Users\AnanasoviiKompJN\Desktop\CsharpPractice\eightCSharpPractice(secondSemestre)\SecondLibPractice\obj\Debug\net8.0-windows\ref\SecondLibPractice.dll
