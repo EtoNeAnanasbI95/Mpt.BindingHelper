@@ -16,7 +16,7 @@ public class BindingHelper : INotifyPropertyChanged
     protected bool
         SetField<T>(ref T field, T value,
             [CallerMemberName] string? propertyName =
-                null) //я хз что это, но развернулось, когда я реализовал интерфейс 😘
+                null)
     {
         if (EqualityComparer<T>.Default.Equals(field, value)) return false;
         field = value;
